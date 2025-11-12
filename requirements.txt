@@ -1,0 +1,16 @@
+langchain==1.0.5
+langchain-core==1.0.4
+langchain-community==0.4.1
+langchain-text-splitters==1.0.0
+chromadb
+faiss-cpu
+sentence-transformers
+openai
+ollama
+pypdf
+tqdm
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+watchdog==4.0.1
+pydantic==2.8.2
+python-multipart==0.0.6
