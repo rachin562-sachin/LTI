@@ -1,0 +1,24 @@
+SEC Compliance Guide for Financial Disclosures 2025
+
+Section 13(a) Reporting Requirements
+Public companies must file quarterly reports (10-Q) and annual reports (10-K) with the SEC. Key elements: Management Discussion & Analysis (MD&A), financial statements, and risk factors. Non-compliance fines: Up to $1M per violation for intentional errors.
+
+Section 10(b) Anti-Fraud Provisions
+Prohibits material misstatements or omissions in SEC filings. Insider trading violations: Criminal penalties up to 20 years imprisonment and $5M fine. Recent 2025 case: XYZ Corp fined $500M for misleading revenue forecasts.
+
+Section 16 Insider Transactions
+Officers/directors must report stock trades within 2 business days via Form 4. Failure: Civil penalties up to $100K per violation. Reporting via EDGAR system mandatory.
+
+Disclosure Controls (SOX Section 404)
+Annual certification of internal controls. Material weakness disclosure required. Audit committee oversight essential. 2025 update: Enhanced cybersecurity reporting for breaches.
+
+Enforcement Trends 2025
+Increased focus on ESG disclosures and AI ethics in filings. Average fine: $2.3M for mid-size firms. Use XBRL for electronic tagging.
+
+Sample Itinerary for Compliance Audit
+Day 1: Review 10-K MD&A for risks.
+Day 2: Check Form 4 filings for insiders.
+Day 3: Validate SOX 404 controls.
+Budget: Under $50k for small audit (tools: EDGAR search, internal review).
+
+Contact: SEC Enforcement Division, Washington DC.

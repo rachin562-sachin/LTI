@@ -1,0 +1,12 @@
+GDPR Compliance Guide 2025
+
+Article 5: Principles Relating to Processing of Personal Data
+Personal data shall be processed lawfully, fairly and in a transparent manner... Fines: Up to 4% global turnover for breaches.
+
+Article 6: Lawfulness of Processing
+Processing must have legal basis (consent, contract). Non-compliance: €20M or 4% fines.
+
+Article 9: Processing of Special Categories
+Health data requires explicit consent. Violations: Tier 1 fines (€10M).
+
+Enforcement: EU Data Protection Authorities (DPAs) investigate. Recent 2025 cases: Meta fined €1.2B for data transfers.
